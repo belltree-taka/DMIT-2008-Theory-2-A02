@@ -24,37 +24,37 @@
     ]
   },
   "intro": {
-    "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "welcomeLabel": "Nice to meet you!",
+    "name": "Takaharu Suzuki",
+    "summary": "a front-end developer focused on building clean, responsive, and user-friendly web experiences",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/belltree-taka"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/takaharusuzuki/"
       },
       {
         "ariaLabel": "dribble profile",
         "screenReaderLabel": "Dribble Profile",
         "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://dribbble.com/takaharu-suzuki/"
       }
     ],
     "supportLink": {
-      "url": "https://ko-fi.com/M4M71O34X",
-      "imageSrc": "https://storage.ko-fi.com/cdn/kofi6.png?v=6",
+      "url": "https://ko-fi.com/takaharusuzuki",
+      "imageSrc": "https://storage.ko-fi.com/cdn/kofi5.png?v=6",
       "imageAlt": "Buy Me a Coffee at ko-fi.com"
     },
     "image": {
-      "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "src": "/memoji-takaharu.webp",
+      "alt": "memoji of Takaharu Suzuki"
     }
   },
   "about": {
