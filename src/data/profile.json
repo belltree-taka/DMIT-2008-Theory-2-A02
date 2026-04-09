@@ -59,18 +59,18 @@
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
-    "toolsIntro": "My primary tools of choice includes:",
+    "intro": "Hi, I'm Takaharu, a front-end developer based in Edmonton, Canada.",
+    "toolsIntro": "My primary tools include:",
     "tools": [
+      "HTML",
+      "SCSS/CSS",
       "JavaScript",
-      "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Next.js",
+      "Tailwind CSS",
+      "Node.js"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "I enjoy building clean and user-friendly interfaces and improving overall user experience. I am also interested in design and continuously learning new technologies to improve my skills.",
+    "approach": "I focus on writing maintainable code and selecting the most appropriate tools for each project. My goal is to build efficient, scalable, and user-centered web applications."
   },
   "contacts": {
     "title": "Let's start working together!",
