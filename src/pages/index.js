@@ -17,7 +17,7 @@ export async function getServerSideProps(){
     process.env.OPENWEATHER_API_KEY
   );
 
-  return { proprs: { weather } };
+  return { props: { weather } };
 }
 
 export default function Home({ weather }) {
