@@ -73,23 +73,19 @@
     "approach": "I focus on writing maintainable code and selecting the most appropriate tools for each project. My goal is to build efficient, scalable, and user-centered web applications."
   },
   "contacts": {
-    "title": "Let's start working together!",
+    "title": "Let's work together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "contact@takaharusuzuki.ca",
+    "location": "Edmonton, AB, Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/takaharusuzuki/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://github.com/belltree-taka"
       }
     ]
   },
