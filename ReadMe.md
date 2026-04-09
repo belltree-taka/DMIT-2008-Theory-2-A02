@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: **Takaharu Suzuki (GitHub username: belltree-taka)**
 
 ![Website Screenshot](./docs/images/screenshot.png)
 
