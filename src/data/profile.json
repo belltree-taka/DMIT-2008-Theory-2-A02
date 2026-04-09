@@ -4,7 +4,7 @@
     "description": "Front-end developer based in Edmonton, Canada. I specialize in building modern, user-friendly web applications using React, Next.js, and CSS frameworks.",
     "footer": {
       "year": "2026",
-      "prefix": "Built on",
+      "prefix": "Built with",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
       "author": "Takaharu Suzuki"
