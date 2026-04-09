@@ -30,11 +30,7 @@ describe("WeatherCard", () => {
         expect(screen.getByText("Edmonton, CA")).toBeInTheDocument();
         expect(screen.getByText("13°C")).toBeInTheDocument();
         expect(screen.getByText("Moderate Rain")).toBeInTheDocument();
-        expect(
-        screen
-            .getByRole("img", { name: "Moderate Rain" })
-            .toHaveAttribute("src", weather.iconUrl)
-        );
+        expect(screen.getByRole("img", { name: "Moderate Rain" })).toHaveAttribute("src", weather.iconUrl);
     });
 
     it("renders fallback error content when weather data is unavailable", () => {
