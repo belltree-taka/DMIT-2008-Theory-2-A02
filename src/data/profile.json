@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Takaharu Suzuki - Freelance front-end Developer",
+    "description": "Front-end developer based in Edmonton, Canada. I specialize in building modern, user-friendly web applications using React, Next.js, and CSS frameworks.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "Takaharu Suzuki"
     }
   },
   "seo": {
